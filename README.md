@@ -2,7 +2,7 @@
 
 My name is **5IGI0** ^^\
 I like cookies 🍪 and programming 💻!\
-I'm programmer for the [Shokokuki Corporation](https://shokokuki.ga/)
+ex-developer for the now-defunct [Shokokuki Corporation](https://web.archive.org/web/20210129120738/https://shokokuki.ga/) (formerly Slacker Company)
 ![shokobrand](./assets/banner-cat.png)
 
 
